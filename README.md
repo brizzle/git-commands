@@ -3,6 +3,7 @@
 **Setting Global User Name**
 
 `git config --global user.name "<USER_NAME>"`
+<br/>
 
 **Setting Global User Email**
 `git config --global user.email "<USER_EMAIL>"`
