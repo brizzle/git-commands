@@ -7,36 +7,66 @@
 <br/>
 
 **Setting Global User Email**
+
 `git config --global user.email "<USER_EMAIL>"`
+<br/>
+<br/>
 
 **Create New Git Repository**
+
 `git init`
+<br/>
+<br/>
 
 **Create New Git Repository**
+
 `git init`
+<br/>
+<br/>
 
 **Get List of Existing Remotes**
+
 `git remote -v`
+<br/>
+<br/>
 
 ### Branches
 
 **View Local Branches**
+
 `git branch`
+<br/>
+<br/>
 
 **Create Branch**
+
 `git branch <NEW_BRANCH_NAME>`
+<br/>
+<br/>
 
 **Switch Branch**
+
 `git checkout <BRANCH_NAME>`
+<br/>
+<br/>
 
 **Create Branch and Switch**
+
 `git checkout -b <NEW_BRANCH_NAME>`
+<br/>
+<br/>
 
 **Update Local Branch from Remote Source**
+
 `git fetch`
+<br/>
+<br/>
 
 **Pull in Remote Branch to Local**
+
 `git pull`
+<br/>
+<br/>
 
 \$ git push # pushes to the remote repository
 
