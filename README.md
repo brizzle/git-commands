@@ -1,10 +1,14 @@
 # Git Commands
 
 **Setting Global User Name**
+
 `git config --global user.name "<USER_NAME>"`
 
 **Setting Global User Email**
 `git config --global user.email "<USER_EMAIL>"`
+
+**Create New Git Repository**
+`git init`
 
 **Create New Git Repository**
 `git init`
