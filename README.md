@@ -32,6 +32,12 @@
 
 ### Branches
 
+**Links a Local Branch to a Remote Repository**
+
+`git remote add origin <REMOTE_URL_REPO>`
+<br/>
+<br/>
+
 **View Local Branches**
 
 `git branch`
@@ -67,6 +73,14 @@
 `git pull`
 <br/>
 <br/>
+
+### Ignoring
+
+**Ignores the node_modules directory**
+
+`node_modules/`
+
+`*.env`
 
 \$ git push # pushes to the remote repository
 
